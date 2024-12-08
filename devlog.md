@@ -4,3 +4,5 @@ I am basically working with index files and will be using b-trees to manage them
 # December 7, 2024 - 2:37 pm
 Like I had mentioned before, I think it is best if I do small portions each time so that I don't get overwhelmed. I think my goal for this session is to simple set up the menu of the program as well as the basic functions of creating, opening, and closing files. I'm not too worried about the formatting of the files at the moment, just getting them open and creating them. I am going to work on it pretty incrementally as I have other work to do, so it will probably take longer than it would take if I just sat down for a committed coding session. 
 
+# December 7, 2024 - 9:09 pm
+I basically just set up the simple commands menu and just the basic open, create, and quit operations. I didn't go much into detail about the formatting of the file, just the simple opening of files. My next session's goal will be to work on the index file's formatting. 
