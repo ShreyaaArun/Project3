@@ -9,3 +9,6 @@ I basically just set up the simple commands menu and just the basic open, create
 
 # December 8, 2024 - 4:44 pm
 My goal is to implement the rest of the operations a little bit, while just treating the files like regular ones, not taking the binary formatting into consideration just yet. I am hoping that this approach makes the initial coding simpler. 
+
+# December 8, 2024 - 6:41 pm
+I was not able to complete this Project due to extenuating circumastances and some lack of proper time mangement. Therefore, my current code only has the most basic menu command functionalities. The B-Tree code has been placed from my homework code, but I have not actually made modifications to it and any attempts to incorporate it with my project code. The test.idx file need not to be worried about. 
