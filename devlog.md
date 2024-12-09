@@ -6,3 +6,6 @@ Like I had mentioned before, I think it is best if I do small portions each time
 
 # December 7, 2024 - 9:09 pm
 I basically just set up the simple commands menu and just the basic open, create, and quit operations. I didn't go much into detail about the formatting of the file, just the simple opening of files. My next session's goal will be to work on the index file's formatting. 
+
+# December 8, 2024 - 4:44 pm
+My goal is to implement the rest of the operations a little bit, while just treating the files like regular ones, not taking the binary formatting into consideration just yet. I am hoping that this approach makes the initial coding simpler. 
